@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cheltuiala.c
+  cheltuiala_service.c
+  customSort.c
+  main.c
+  MyList.c
+  Generating Code...
+  Lab5.vcxproj -> C:\Users\Robert\Documents\proiecte bune\Lab 5\Lab5\x64\Debug\Cheltuieli.exe

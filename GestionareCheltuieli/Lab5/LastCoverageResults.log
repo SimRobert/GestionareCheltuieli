@@ -1,0 +1,21 @@
+[2023-04-07 08:31:01] [info] Start Program:
+Path:"C:\Users\Dana Rusu\Desktop\OOP\Lab 5\Lab5\x64\Debug\Lab5.exe"
+Arguments:
+Working directory: "C:\Users\Dana Rusu\Desktop\OOP\Lab 5\Lab5\Lab5\"
+Modules: Selected: C:\Users\Dana Rusu\Desktop\OOP\Lab 5\Lab5\x64\Debug\Lab5.exe Excluded: 
+Sources: Selected: C:\Users\Dana Rusu\Desktop\OOP\Lab 5\Lab5\Lab5 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Dana Rusu\AppData\Local\Temp\qg3s3oeo.ast 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-04-07 08:31:01] [info] Module: C:\Users\Dana Rusu\Desktop\OOP\Lab 5\Lab5\x64\Debug\Lab5.exe is selected because it matches selected pattern: C:\Users\Dana Rusu\Desktop\OOP\Lab 5\Lab5\x64\Debug\Lab5.exe
+[2023-04-07 08:31:02] [info] ----------------------------------------------------
+[2023-04-07 08:31:02] [info] Coverage binary generated in file: C:\Users\Dana Rusu\AppData\Local\Temp\qg3s3oeo.ast
+[2023-04-07 08:31:02] [info] ----------------------------------------------------
